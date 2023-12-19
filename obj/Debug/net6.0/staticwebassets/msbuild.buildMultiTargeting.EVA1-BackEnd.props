@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EVA1-BackEnd.props" />
+</Project>
